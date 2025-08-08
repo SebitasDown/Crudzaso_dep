@@ -73,6 +73,6 @@ Este proyecto es una API REST construida con Node.js y Express, conectada a una 
 
 ## 🧑 Autor
 
-Desarrollado por: **[Tu Nombre Aquí]**
+Desarrollado por: **[SebitasDown]**
 
 Este proyecto fue realizado como ejercicio académico para la gestión de salas y reservas de empleados.
